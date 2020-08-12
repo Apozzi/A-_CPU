@@ -63,5 +63,5 @@ ff 05 11 00 04 ff 00 00
 00 27 08
 ```
 Video demonstration 
-[![Watch the video]](https://www.youtube.com/watch?v=P-vK3BA1kco&feature=youtu.be)
+[Watch the video](https://www.youtube.com/watch?v=P-vK3BA1kco&feature=youtu.be)
 
