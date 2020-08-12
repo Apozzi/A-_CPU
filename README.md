@@ -42,8 +42,11 @@ Here is the list (not complete).
 | OR AX,CX | 00011110 | 1E |
 | NOT AX | 00010100 | 14 |
 | INC AX | 00001100 | 0C |
-| INC AX | 00010000 | 10 |
+| DEC AX | 00010000 | 10 |
 
+Is possible to make CALLS and MOV {RAM}, AX, Conditional or incoditional JUMPS etc... 
+
+But i dont remember instructions anymore (I will analise later.)
 
 
 # Sinus have code demonstration
