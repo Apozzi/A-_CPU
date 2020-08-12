@@ -19,8 +19,6 @@ All instructions are created by myself.
 Here is the list (not complete).
 | Operation| Binary | HEX |
 | :---: | :---: | :---: |
-| Operation| Binary | HEX |
-| :---: | :---: | :---: |
 | INIT AX| 00000000 | 00 |
 | IN AX| 00110001 | 31 |
 | OUT AX| 00110010 | 32 |
