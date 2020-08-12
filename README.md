@@ -12,7 +12,7 @@ Inner view.
 
 ![Screenshot](https://i.postimg.cc/nrmSh7gh/Captura-de-Tela-2017-10-12-as-21-22-34.png)
 
-Circuits created in 2015. (I just passed it to github for public domain).
+Circuits and CPU created in 2015. (I just passed it to github for public domain).
 
 # Documentation CPU instructions
 All instructions are created by myself.
