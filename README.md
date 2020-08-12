@@ -51,5 +51,17 @@ But i dont remember instructions anymore (I will analise later.)
 
 # Sinus have code demonstration
 Hexadecimal program loaded.
-
+```
+00 00 00 05 01 00 04 ff
+00 00 00 05 11 00 04 ff
+05 11 00 04 ff 05 21 00
+04 ff 05 21 00 04 ff 05
+41 00 04 ff 05 41 00 04
+ff 05 21 00 04 ff 00 05
+21 00 04 ff 05 11 00 04
+ff 05 11 00 04 ff 00 00
+00 27 08
+```
+Video demonstration 
+[![Watch the video]](https://www.youtube.com/watch?v=P-vK3BA1kco&feature=youtu.be)
 
