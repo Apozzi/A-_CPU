@@ -15,7 +15,12 @@ Inner view.
 Circuits created in 2015. (I just passed it to github for public domain).
 
 # Documentation CPU instructions
-All instructions 
+All instructions are created by myself.
+Here is the list (not complete).
+| Operation| Binary | HEX |
+| :---: | :---: | :---: |
+| INIT AX| 00000000 | 00 |
+
 
 # Sinus have code demonstration
 Hexadecimal program loaded.
