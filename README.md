@@ -1,7 +1,7 @@
 # A# - CPU in Logicsim.
 Central Processing Unit created in logicsim, using only basic logic gates and integrated circuits(Created by me).
 
-This CPU is extremally optimised for using a low quantity of clocks circles per operation. 
+This CPU is extremally optimised for using a low quantity of clocks circles per operation (Mostly using 1 clock per operation). 
 
 Making possible running interessing programs at 4.1 KMz.
 
