@@ -72,5 +72,3 @@ I could implement alot of things to make this have a even better clock performan
 like (PUSH CX, INC AX) or even (MOV AX, CX and MOV AX, BX) having 2x better performance and 2 intructions per 1 clock.
 
 
-
-
