@@ -70,5 +70,3 @@ I could implement alot of things to make this have a even better clock performan
 1. Having a SPECIAL register thats defines block of memory for actuation, decreasing the amount of information for JMP instruction.
 2. Duplicate BUS, to enter two instructions at a time with two loaded ROM units and create a unit that defines whether two instructions can be executed simultaneously,
 like (PUSH CX, INC AX) or even (MOV AX, CX and MOV AX, BX) having 2x better performance and 2 intructions per 1 clock.
-
-
