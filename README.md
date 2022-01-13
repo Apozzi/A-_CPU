@@ -49,7 +49,7 @@ Is possible to make CALLS and MOV {RAM}, AX, Conditional or incoditional JUMPS e
 But i dont remember instructions anymore (I will analise later.)
 
 
-# Sinus have code demonstration
+# Sinus Wave Code Demonstration
 Hexadecimal program loaded.
 ```
 00 00 00 05 01 00 04 ff
